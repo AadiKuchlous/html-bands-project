@@ -25,4 +25,10 @@ iframe, video {
 
 .content-div {
 	padding: 30px;
+	display: flex;
+	justify-content: center;
+}
+
+.inner-content {
+	width:344px;
 }
